@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thematic-structurizer"
+version = "2025.12.21114407"
+description = "A new package would process user-provided text input related to historical or thematic content—such as summaries, descriptions, or analyses of topics like persuasion techniques from antiquity—and retu"
+readme = "README.md"
+authors = [{ name = "thematic-structurizer", email = "hi@eugene.plus" }]
+requires-python = ">=3.9"
+dependencies = [
+  "langchain-llm7>=0.0.0",
+  "llmatch-messages>=0.0.0",
+  "langchain-core>=0.3.0",
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/chigwell/thematic-structurizer"
